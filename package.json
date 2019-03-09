@@ -1,0 +1,23 @@
+{
+  "name": "docker-yyt",
+  "version": "0.7.1-beta2",
+  "description": "yyt docker image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackness1208/docker-yyt.git"
+  },
+  "keywords": [
+    "yyt",
+    "docker"
+  ],
+  "author": "jackness",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackness1208/docker-yyt/issues"
+  },
+  "homepage": "https://github.com/jackness1208/docker-yyt#readme"
+}
