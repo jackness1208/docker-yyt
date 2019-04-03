@@ -1,4 +1,4 @@
-FROM jackness1208/yyt-base
+FROM jackness1208/yyt-base:latest
 LABEL authors="jackness <jackness1208@qq.com>"
 
-RUN npm install yyt@0.7.1-beta2 -g --loglevel http
+RUN npm install yyt@0.7.2 -g --loglevel http
