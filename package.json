@@ -1,6 +1,6 @@
 {
   "name": "docker-yyt",
-  "version": "0.8.2",
+  "version": "0.8.5-beta2",
   "description": "yyt docker image",
   "main": "index.js",
   "scripts": {
